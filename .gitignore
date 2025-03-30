@@ -21,12 +21,31 @@
 # RStudio files
 .Rproj.user/
 
+# Rdata
+Rdata/
+*.rda
+
+# Rproject info:
+*.Rproj
+
+# the word directory
+word/
+
+# any matlab data files
+*.mat
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
 
-# random pdf files
+# random image files
 *.pdf
+*ps
+*eps
+*tiff
+*gif
+*jpg
+*JPEG
 
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
 .httr-oauth
