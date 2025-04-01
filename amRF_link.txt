@@ -70,6 +70,7 @@ Cirque_20240903_0810_zm9999     0       0.04       5       0       NA   NA     8
 Cirque_20241112_0825_zm9999     0       0.04       5       0       NA   NA     11.787    0.37086	16      0      0.01      0.1      0.5      1      NA      NA      NA      500     NA     TB  g     essuy  0	0
 Cirque_20250130_0845_zm9999     0       0.04       5       0       NA   NA     11.478    0.37413	16      0      0.01      0.1      0.5      1      NA      NA      NA      500     NA     TB  g     essuy  0	0
 Cirque_20250226_0845_zm9999     0       0.04       5       0       NA   NA     11.066    0.38494	16      0      0.01      0.1      0.5      1      NA      NA      NA      500     NA     TB  g     essuy  0	0
+Cirque_20250231_1035_zm9999     0       0.04       5       0       NA   NA     11.925    0.36653	16      0      0.01      0.1      0.5      1      NA      NA      NA      500     NA     TB  g     essuy  0	0
 
 Jesse_20220301_0950_zm9999      0       0.04       5       0       NA   NA     11.944    0.36306	16      0      0.01      0.1      0.5      1      NA      NA      NA      500     NA     TB  g     escy  0	0
 Jesse_20220329_0855_zm9999      0       0.04       5       0       NA   NA     9.6461    0.38042	16      0      0.01      0.1      0.5      1      NA      NA      NA      500     NA     TB  g     escy  0	0
